@@ -1,3 +1,3 @@
 # Example Repo
 
-This is a simple project that demonstrates basic Git and GitHub usage. It includes a program that prints 'Git is awesome!'.
+This repository contains code from a basic Git practice project. It includes a simple program that prints 'Git is awesome!' to demonstrate Git commands and workflow.
